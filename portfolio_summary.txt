@@ -1,0 +1,7 @@
+Portfolio Summary:
+AAPL: 33 shares @ $180 = $5940
+GOOGL: 33 shares @ $140 = $4620
+AMZN: 22 shares @ $130 = $2860
+TSLA: 88 shares @ $250 = $22000
+
+Total Investment Value: $35420
